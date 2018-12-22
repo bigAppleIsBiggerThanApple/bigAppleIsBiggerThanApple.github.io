@@ -38,15 +38,15 @@ Under this small radio group button, you could view the posts related to faces. 
 
 # App Implementation
 
-（1）Implemented basic token based registration/login/logout flow with **React Router v4** and server-side user authentication with **JWT**
+（1）Implemented basic token based registration/login/logout flow with **React Router v4** and server-side user authentication with **JWT**.
 
-（2）Implemented features such as "Create Post", "Nearby Posts As Gallery" with **Ant Design** and **GeoLocation API** 
+（2）Implemented features such as "Create Post", "Nearby Posts As Gallery" with **Ant Design** and **GeoLocation API** .
 
-（3）Implemented feature "Nearby Posts In Map" with **Google Map API**
+（3）Implemented feature "Nearby Posts In Map" with **Google Map API**.
 
 **For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/AroundWebApp)
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0Mjg0ODkzMF19
+eyJoaXN0b3J5IjpbMTk3MTUzMDUzNCwxMjQyODQ4OTMwXX0=
 -->
