@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Online Shopping Project
+title:      Online Shopping Web App
 subtitle: Used Spring framework to build a web application for users to shop and order items online
 date:       2018-04-14
 author:     Xing Wan
@@ -52,5 +52,5 @@ Click checkout button on the cart page. After clicking checkout, the user's paym
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTEwMTg2MDZdfQ==
+eyJoaXN0b3J5IjpbMTE0MDg1NDQ0Nl19
 -->
