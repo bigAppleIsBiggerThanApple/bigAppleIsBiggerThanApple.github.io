@@ -10,7 +10,7 @@ tags:
     - Recommendation
 ---
 # What can this application do? 
-**（1）Search near by **:
+**（1）Search near by events**:
 
 In this web application, you could simply upload your image posts with a create post button. And This tab will render all the user post images around you.
 
@@ -31,5 +31,5 @@ In this web application, you could simply upload your image posts with a create 
 
 	$ tree -L 1 > tree.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjEzNjE2MDZdfQ==
+eyJoaXN0b3J5IjpbLTQ4NTQ5NjMxXX0=
 -->
