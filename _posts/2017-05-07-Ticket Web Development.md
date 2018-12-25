@@ -12,7 +12,7 @@ tags:
 # What can this application do? 
 **（1）Search near by events**:
 
-When user login, it will send geolocation to our server, convert the geographic location into a key according to the api of our server, then send the data to TicketMaster to get the events and return to user.
+When user login, it will send geolocation to our server, convert the geographic location into a key according to the api of our server, then send the data to TicketMaster to get the events and return to user. Below is what events looks like
 
 
 	
@@ -31,5 +31,5 @@ When user login, it will send geolocation to our server, convert the geographic 
 
 	$ tree -L 1 > tree.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNjc4MDcyMCwtNDg1NDk2MzFdfQ==
+eyJoaXN0b3J5IjpbMTI3MjEwNzc0OSwtNDg1NDk2MzFdfQ==
 -->
