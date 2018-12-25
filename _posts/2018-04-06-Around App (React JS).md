@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Around Web Application
+title:      Around Web App
 subtitle:  Geo-based social network web application with React JS
 date:       2018-06-06
 author:     Xing Wan
@@ -48,5 +48,5 @@ Under this small radio group button, you could view the posts related to faces. 
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk3MTUzMDUzNF19
+eyJoaXN0b3J5IjpbMTQ5NTgyNDgyM119
 -->
