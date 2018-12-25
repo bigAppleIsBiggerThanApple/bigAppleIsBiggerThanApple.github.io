@@ -7,6 +7,7 @@ author:     Xing Wan
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
+S
 ---
 
 # What can this application do?
@@ -52,5 +53,5 @@ Click checkout button on the cart page. After clicking checkout, the user's paym
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDg1NDQ0Nl19
+eyJoaXN0b3J5IjpbMTEzMTU0MTk1XX0=
 -->
