@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Ticket+ Web Development
+title:      Ticket Web Development
 subtitle:   Improved personalized business recommendation based on search history and favorite records
 date:       2017-05-07
 author:     Xing Wan
@@ -9,18 +9,12 @@ catalog: true
 tags:
     - Recommendation
 ---
+# What can this application do? 
+**（1）Search near by **:
 
-> 使用 **tree** 在终端显示树状文件结构
+In this web application, you could simply upload your image posts with a create post button. And This tab will render all the user post images around you.
 
-![](https://ww4.sinaimg.cn/large/006tKfTcgy1fdhotefcb5j315s0ugjwk.jpg)
 
-#### 安装 tree
-使用 **brew** 进行安装
-
-	$ brew install tree
-
-#### 使用
-- 直接使用 `tree` 命令，会在当前文件目录下，递归输出所有文件层级
 	
 		$ tree
 
@@ -37,5 +31,5 @@ tags:
 
 	$ tree -L 1 > tree.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzOTY5ODU5OV19
+eyJoaXN0b3J5IjpbLTE5NjEzNjE2MDZdfQ==
 -->
