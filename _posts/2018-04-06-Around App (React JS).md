@@ -7,6 +7,7 @@ author:     Xing Wan
 header-img: img/react.png
 catalog: true
 tags:
+React JS
 ---
 
 > 
@@ -48,5 +49,5 @@ Under this small radio group button, you could view the posts related to faces. 
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NTgyNDgyM119
+eyJoaXN0b3J5IjpbODk3MTIyMTYzXX0=
 -->
