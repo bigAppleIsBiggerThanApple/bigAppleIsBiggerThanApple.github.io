@@ -10,7 +10,7 @@ tags:
 Spring
 ---
 
-# What's the feature of this application?
+# What are the features of this application?
 **（1）Register page**:
 
 ![](https://lh3.googleusercontent.com/t4E6kar5-N_1mhTp1_vPvD4qohUgyTUo9_7gWw5TGHXOb045-GVyVkMWrgiImiMo4PD4Xzfv-u5YzfRMLyv3gOnmMA68Yxjatlm6gvsf9JmNIO1Ukv-Qcszblm4Hf5sHuGQcpHJLToVQ14mgtxq_IRledub1NVWR018RuLKCGAEwWoh2JHaE9e7yHlbvXuJbIvzJ81HkW0Mx8gfPPy8NedR_ya7awQ9CZ8CQW_3_5DGdYVN6iMowMQtpBQ87We5VfwAsMyDQDLBHdSZmE3tbKSLWb0TCGryUKMY0nhmgx2niuoLFB-4a9FEt7gu7026Wf69z_Jv-14vVnBrkgpoAmdWMzs-HjTLQwzS16N5W-cspAfewR9CjlVUGbCGUVXCzRlmQcEJyVfBHDJQi8aQHwBOXZuIB71w8DF9F0ooOTPOZUDlFCGRpueTonxTXJd4USY9FJq_XRaonIy1L1iGMiCU9Nnj5smozQQhlCfpTeHHLgGRK3n49T1DwduubmR6yKDCrk0dDSfugN_yGr3_RPni4gUHq5Gedssh25th-zns013oTdr8fz1-RvtscJg3uB0EhAvY4MG_tBl94wMum9V0inNNoYvq3D97CK9XvUw9ThE4CcfO_uwqIFLv1O8-_MmSfbM2allCtH67slD29JPNj=w1431-h748-no)
@@ -53,5 +53,5 @@ Click checkout button on the cart page. After clicking checkout, the user's paym
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjA1NzQ4XX0=
+eyJoaXN0b3J5IjpbMjA1ODU4NDcyNV19
 -->
