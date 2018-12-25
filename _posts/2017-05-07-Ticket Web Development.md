@@ -12,7 +12,7 @@ tags:
 # What can this application do? 
 **（1）Search near by events**:
 
-In this web application, you could simply upload your image posts with a create post button. And This tab will render all the user post images around you.
+When user login, it will send geolocation to our server, convert the geographic location into a key according to the api of our server, then send the data to TicketMaster to get the events and return to user.
 
 
 	
@@ -31,5 +31,5 @@ In this web application, you could simply upload your image posts with a create 
 
 	$ tree -L 1 > tree.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NTQ5NjMxXX0=
+eyJoaXN0b3J5IjpbLTcwNjc4MDcyMCwtNDg1NDk2MzFdfQ==
 -->
