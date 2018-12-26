@@ -26,7 +26,7 @@ Under this tab, you could also simply upload your video posts with a create post
 
 **（3）Google map**:
 
-Under this tab, you can view the specific location of all posts users, and you can click to view images and play videos.
+Under this tab, user can view the specific location of all posts uploaded by users around you, and user can click to view images and play videos.
 ![](https://lh3.googleusercontent.com/k0PrhcVFwnLUbivO99i9ukGTw7TftcK4qqCJwd5AceIrydqGgTUHqK8MevvcraKR0GOstZOkgAguKnqN482y-E5qBvHxn3ekFt0xQsC7wARIEu0-5OM2FpE0BweOvpslMKAD3iHFfZ1xMaOKudHLPXj3hkq3TDWkzuc8JXLyepwrKp2wRqDcSLVCV8oqoh4hGNrMpYqtgpLhYYWGlf9nnj9nwOBStKyCfk8viOWLoWbI-J8wQnlXOqigW927vEBtpHplQTysYx7EQd5OhSrvUc37UzNp1_9OgLrJLe-TrHcuxoYDKizWgFz4L3DlGf1dhaciejEGiUppGXXQB7c3aookGQl6syQ9B3AC38o4BOBecITxYQTpSNptFLScSHu83KpuHVEail3VAWGRcWe0POMurYWPLSfnC4OicB1Lolz0DVMBiwFjuQ0HUKfdI4zlHDJx0UqlvhO4BWgKWuf2-Kqb8Os0-tNAgdNq083SxCT4RTsz8xdlrji9Ia5wJJqxEPLFmyetdQpBBqXSPpWi_EdtvSqVq_bNJ-EhlPYN5HNr6SR-D2UcyFxWIUr_cFghJ5u2w2kMeJpeQxkq9dwO_OBJM1Vy3ZoR96iJ157GiyNN9YGLW8739BPTn1VpRpdDG2cSErimHbdJIyZBXFD9Blc=w1432-h740-no)
 Click the blue marker to view the video:
 ![](https://lh3.googleusercontent.com/Hs4j6Cf0Xft-RY2EuH4hva6jJX-JuQFSEJ459b_jSaIEXKF2i5aC9h3tS307s626mqnIel3BFVJHtO8Nejq2XB7GfaajwlCLv6ufMD2MMFdBkz-MlI3s24mrsgje5ZPbNCZjm4aj_WjvPaTRuS6X2KPDDKOnZPFvdqfztHnZ14Xe952AD_mHbJiUrH5SAUJOBwEgtjVL7jmvVLZDT_cUNZ2iz294W4t1yy8aJ6bQedX62rL7Fh3TPnSl6bYKCEn3CrvLqvKyW3Rv7C0wviyrGALHg2VmghOVX7gIvW9vnvjMPfJiO0wPiZNzrmkDSva6xcQIS6ofFnuaHQhf1zK7pCf1neaSp_dsHwlB0V9gK76U4OzSZVPM-A98i40GYSBRaAYCBSOTkOgKBCABd7gwET1HkWC9w5pXwjk0802roEWwAmYpPs8ttEYJDM7iGMY1kSKXR3jocaIkGexwqKN_myW6XbUWq_XUJ4YOQHObW4OvcamTwi4T63LsNmMn5W3X-5291R-0MYEnZ5t2JeyGvXgK3OjA8FXlNbdJ32ZjP3LyZiz5znrBl1avlihR7xK6m4-J88oGmpJ97FCgJAI1Ay6N9IrJCZJIC8YjZvT_rdlUGo7DEn0tcXagtBtiLu3sgrBSKJDWCFIGISSTmWc4BJ0=w1433-h742-no)
@@ -49,5 +49,5 @@ Under this small radio group button, you could view the posts related to faces. 
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk3MTIyMTYzXX0=
+eyJoaXN0b3J5IjpbMjAxOTI4NjIwNl19
 -->
