@@ -31,12 +31,17 @@ Our recommendation system is based on the type of events the user likes, and the
 
 （2）Build relational and **NoSQL** (MySQL, MongoDB) database to capture real business data from TicketMaster API
 
-（3）Implemented feature "Nearby Posts In Map" with **Google Map API**.
+（3）Designed algorithms (e.g., **content-based** recommendation) to implement business recommendation
+
+（4）Deployed server side to **Amazon EC2** to handle 150 queries per second tested by **Apache** **JMeter**
+
+**Frontend**:
+（1）Designed an interactive web page utilizing **AJAX** technology (**HTML, CSS and JavaScript**)
 
 **For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/AroundWebApp)
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxNjU2MTI3OSwtNTk5NTc4NzA0LC0xOT
+eyJoaXN0b3J5IjpbLTY0MzUxOTQ4MCwtNTk5NTc4NzA0LC0xOT
 g1OTM2NjEsLTQ4NTQ5NjMxXX0=
 -->
