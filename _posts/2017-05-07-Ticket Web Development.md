@@ -17,8 +17,8 @@ When user login, it will send geolocation to our server, convert the geographic 
 
 **（2）Favorite events**:
 
-Under this tab, you could also simply upload your video posts with a create post button and check all the user post videos around you. What's more, the layout of posts is implemented with react-grid-galary.
-	
+There is a heart icon on the right side of each event, users can save their favorite event simply click on that icon. Under this tab, user could check all the events saved before.
+[](https://lh3.googleusercontent.com/ijLnP4nzAGpIs6M5NjV1VPhZD0murVUA3GOZpL7UJkb6KC9vCFCQSEMHGM_uNODFpY99cyPA-7c2eLsgo8IayQLqUrBGYsZYpTEHhoHQN7uEQP4WkyppmNlpUTbZLQNElPV7UN3KRO3YEX2GYZ_6uH_Rt7bWds8deXB1hfXT2840tvO1SIdOmYIu_gq_rqE-CRX2juNlZ-BXacguquUd977cx76xccReGPsen7wC18U0qzE6lTGPwlUFz2o7xIKeXclm914CcybGtq9imtBBTqcHZwuhwaTvk-KTcJKBhd0dAv16OT_DI2OhR2VWJ4U-4qKpuRL6oKZwlNnKSB92wnEmUEj7R9PxCmoIHs6UVO1txZRqFfbI7NnN6FvaX6VH0NPm1Sx2slWo4LfrZ8yKKOWnaEqJ-Iz9FbhSXSJ2nO3-V_lno42BOFoHepgaoTpMn_lcEA0jFVQ4CSCfp_XCMDMVWdqHQlu_DuyZKtJ1cytrQlHpma_Y9OPAerLQk2kV9dg5wGqH2QNsDEpbU131WnhCjsnoY-eDpujxEvdDy9I1mWGzyHvvwySGs_qnII2oJaQTMNHucImXZ73DKpvm72gHfqcUodlhsFgmrxya9aauyjnAm5fK_5gfCWkEIEiOGgZZPyjorm7IBWISTi7GvAjB=w1435-h694-no)
 		$ tree
 
 - 限制层级
@@ -34,6 +34,6 @@ Under this tab, you could also simply upload your video posts with a create post
 
 	$ tree -L 1 > tree.md
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5OTU3ODcwNCwtMTk4NTkzNjYxLC00OD
-U0OTYzMV19
+eyJoaXN0b3J5IjpbNTg1MDc2MDgxLC01OTk1Nzg3MDQsLTE5OD
+U5MzY2MSwtNDg1NDk2MzFdfQ==
 -->
