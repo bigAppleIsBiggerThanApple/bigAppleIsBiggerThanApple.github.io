@@ -10,8 +10,8 @@ tags:
     - Android
 ---
 
-
-## 前言
+# What can this application do? 
+**（1）Present news**:
 
 平常我们都会用 Instrument 的 Leaks / Allocations 或其他一些开源库进行内存泄露的排查，但它们都存在各种问题和不便，
 
@@ -76,5 +76,5 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzMTk2NTQ0OF19
+eyJoaXN0b3J5IjpbLTEyMDU2ODk5MTQsLTMzMTk2NTQ0OF19
 -->
