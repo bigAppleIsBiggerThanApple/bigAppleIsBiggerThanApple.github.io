@@ -22,9 +22,21 @@ There is a heart icon on the right side of each event, users can save their favo
 
 **（3）Recommendation tab**:
 
-Our recommendation system is based on the type of event the user likes, and then recommend the corresponding events according to the recommended algorithm we designed. Under this tab, user could view 
+Our recommendation system is based on the type of events the user likes, and then recommend the corresponding events according to the recommended algorithm we designed. 
+![](https://lh3.googleusercontent.com/jgM7-5-vpkbCGU6OKWIePOI4SC54qBWUhKvLAmConwJL8uleE5QxBDt5o669F3ePWL4K8htnrgVnK9GoL0BfZHr30TE0Ww5ygxOAtOGT49sASaZtN2CPvGyoXlx7QudQMB7o1YFvVjJouUY2Cj_XoaEsn5QWrSO7gIcOcDrjBIzguucAJ4AX4P0gfhKjKyaGSojgs_P7ZtXJ2QknYhzVdXlOYqr5mLn2bSbJhVPOiw6wEl7Zkhb0hP6cuI9m8bTcsm5L1AxsXBLPBwRYvI2WCHQ4vZB_2dGAAAf7ZUq1aSi04NNd2njh_32_wIGI8vYYHUNvQmTXbBZ_06cv9kVebAHOyU3jmr4UjBRo3RNoOFkE6kUjb-BLfGgDKkguZWEsvICGOQSX7AjI7YPLOuZ2AW-SHtRXSPqQMVwyIYuQhAiPNbNnIPCVrqrt2m3XzJ1pGgcEPoaO41TK4O5hTghI6oSBKuM48UmKrV7ViQA5xt8J_B0qVr8CoskZldAFHLH6Gx9jlYxtoWt8QyJZw9bHSTPSgXJ9tzFGwUVYjk4vTAQ9ioVnO7_ek3eQ4j_aQ5e1_cdGHj60QHTvq9ON1gktuAkriwprxe1x0mUEiQ1QIpLERjuW1jY4tMrBk9_kbqq1jGh8nMoTmB4hwTncEcB7jhq1=w1437-h695-no)
 
+# App Implementation
+
+（1）Implemented basic token based registration/login/logout flow with **React Router v4** and server-side user authentication with **JWT**.
+
+（2）Implemented features such as "Create Post", "Nearby Posts As Gallery" with **Ant Design** and **GeoLocation API** .
+
+（3）Implemented feature "Nearby Posts In Map" with **Google Map API**.
+
+**For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/AroundWebApp)
+
+**Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODI1NjY2NTUsLTU5OTU3ODcwNCwtMT
-k4NTkzNjYxLC00ODU0OTYzMV19
+eyJoaXN0b3J5IjpbLTUxMjA5MjIzOSwtNTk5NTc4NzA0LC0xOT
+g1OTM2NjEsLTQ4NTQ5NjMxXX0=
 -->
