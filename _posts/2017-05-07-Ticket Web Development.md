@@ -22,9 +22,9 @@ There is a heart icon on the right side of each event, users can save their favo
 
 **（3）Recommendation tab**:
 
-Under this tab, user could view 
+Our recommendation system is based on the type of event the user likes, and then recommend the corresponding events according to the recommended algorithm we designed. Under this tab, user could view 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjA4MjI0MSwtNTk5NTc4NzA0LC0xOT
-g1OTM2NjEsLTQ4NTQ5NjMxXX0=
+eyJoaXN0b3J5IjpbLTE2ODI1NjY2NTUsLTU5OTU3ODcwNCwtMT
+k4NTkzNjYxLC00ODU0OTYzMV19
 -->
