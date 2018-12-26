@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      TinNews Android App
-subtitle:   利用 Xcode 内存表（Debug Memory Graph）检测内测泄漏
+subtitle:   Designed the Instagram Flavor News app based on **MVP** architectural pattern
 date:       2017-07-26
 author:     BY
 header-img: img/post-bg-hacker.jpg
@@ -77,5 +77,5 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwNzk2MjUzXX0=
+eyJoaXN0b3J5IjpbNjY2ODAwOTYxXX0=
 -->
