@@ -36,12 +36,12 @@ Our recommendation system is based on the type of events the user likes, and the
 （4）Deployed server side to **Amazon EC2** to handle 150 queries per second tested by **Apache** **JMeter**
 
 **Frontend**:
-（1）Designed an interactive web page utilizing **AJAX** technology (**HTML, CSS and JavaScript**)
+Designed an interactive web page utilizing **AJAX** technology (**HTML, CSS and JavaScript**)
 
-**For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/AroundWebApp)
+**For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/ticketWebApp)
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3MjgxNTM0NSwtNTk5NTc4NzA0LC0xOT
-g1OTM2NjEsLTQ4NTQ5NjMxXX0=
+eyJoaXN0b3J5IjpbLTExNTk2NzgyMTAsLTU5OTU3ODcwNCwtMT
+k4NTkzNjYxLC00ODU0OTYzMV19
 -->
