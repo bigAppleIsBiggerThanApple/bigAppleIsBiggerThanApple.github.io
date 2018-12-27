@@ -19,7 +19,8 @@ The news data of this project is taken from newsapi.org, and then every time 10 
 
 **（2）View saved news**:
 
-Under this tab, you could also simply upload your video posts with a create post button and check all the user post videos around you. What's more, the layout of posts is implemented with react-grid-galary.
+Under this tab, users could check the news they liked and  click it to view the news details.
+
 
 
 ![](https://ws4.sinaimg.cn/large/006tNc79gy1fhxct12udnj311x0s3grw.jpg)
@@ -77,6 +78,6 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDMyMDczMTYsLTEyMDU2ODk5MTQsLT
-MzMTk2NTQ0OF19
+eyJoaXN0b3J5IjpbMzg3ODM4MTgxLC0xMjA1Njg5OTE0LC0zMz
+E5NjU0NDhdfQ==
 -->
