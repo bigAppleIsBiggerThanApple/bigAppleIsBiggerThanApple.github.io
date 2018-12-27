@@ -10,7 +10,6 @@ tags:
 React JS
 ---
 
-> 
 
 # What can this application do? 
 **（1）Create image posts**:
@@ -49,5 +48,5 @@ Under this small radio group button, user could view the posts related to faces.
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTQ2ODExNl19
+eyJoaXN0b3J5IjpbNzQ1OTM5OTM2XX0=
 -->
