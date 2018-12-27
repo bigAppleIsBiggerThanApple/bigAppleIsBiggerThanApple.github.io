@@ -10,9 +10,6 @@ tags:
     - Android
 ---
 
-# Schematic diagram for this app:
-From the 
- ![](https://lh3.googleusercontent.com/2HyD7DfLyQwR_v3SWy1n-jarb-dc0RwNmpQReCESp49aXQK-ohkEFMJBc_72GrH_nbQAP7v6Zbxr4xjtFcAbyajUMzCv8kjS81GU-m-GqFAMveQZfwVgGUWqP-egTuVIiwtG3G5EUfpkr-aMTA-DcqQAwc1Y_NKgHIwA92OBQDaHJ5kFjtMWRwUgVVHIq8BhxTFjCOzjEuwlA5LmmLvsOc45ZHZWy3EaFbvJ9Ol6vnLgZRpo_znaZfKOi_sYVhhvToQlM3ly_IJpPkDQkcNQMw5alSIF3RsnqPfhqk_UVMBj3zlDxdUYcyT38ekaOiITJWtILoqZzwB9X51wDbrg30LhMlptEDBCzTwPt4Ydux9UIVKdXKhhEtWQ063koP_mwjVry1feLlKn0EqJxX6YJkM-baDeXDFk78Wdhtz_NQTEjn3aBDHCSbIe52PzFIsZxnVT2PVfDwbzJb81qwEeQOA_-SLAvuqRDZBDGSphsam8DThtWc8VtE9FJBY1zujL3j7ZkXur_OC0hpuSjcr42nTFjtsKlUTk-fKkuMTyDocOgSjVGxZrip5XfHotfqe1xyUe4eX3ylJh3oxEIsfEudWpMdlZIX5C0Z7z3q6HXElK1QBNKGm6HEmDOS9G3eeN7eIo8FpOXRExNtRZ3p1iQsMk=w639-h513-no)
 # What can this application do? 
 **（1）Present news**:
 
@@ -22,11 +19,14 @@ The news data of this project is taken from newsapi.org, and then every time 10 
 
 **（2）View saved news**:
 
-Under this tab, users could check the news they liked and  click it to view the news details.
+Under this tab, users could check the news they liked.
 ![](https://lh3.googleusercontent.com/mrZCdTy6PyOzJxJeKSTgbqk_4NAaAF2QAcMsYMzGBToRZvGLv2G9QZfnbsPE0IQQyDqJcA6-K4bQPYscVC9QVDoBHf0UK6FzNBimKMHWu_qk4hT0kLYd0S1GZkB-pRAx4HOWrLx-cxEPYjXzOAdNz_XXd-6QFQBo91IdvYQ3r93IqvN6IRCaP2CA680cVbUpnZ7_i7lVVip63vBGZyTXtPFfM_1PQNu3AtKMk1sfwDSLWkhx2dd6hKa7Vn5LU18E1P6wDun2VeNNRL3_zMg7ewzMqVHxNnRLXdgOMGoCDRA0dzlah2EFH59wVrRTHZISAdnabNXqCpmCw6MYEUS_LGzAKId1DTF3LitVSFtexK5LIxIXoPfjkOEy3am40eodZ3NHHYsfBxFSaJ9Et1aN_xrm15kG6X7981wOv3KjNF25Dob9HLB_ZjYgB6v7B1Lu1NBDFaukepZRItriYJH8EqHc3CTOi97Vdud2Vpmw75lQ9TuYupwNZ098kN0Ty7KZC9blDKgCtmyOqzLU-AuAoEbmgK5aGUIrUaDZt6s9V_TBRh1UnFOlJkjWYZOc08I-QZdc54u9NyPDFSZvlT1l9SD6UydB62pLNTuh5GwlB4EOvV3wdP8x-4Dzr_7dzY8j3euxJOz3VFVE1vt4-6mUl0oY=w272-h448-no)
 
+And also user could click 
+**（2）View saved news**:
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhxct12udnj311x0s3grw.jpg)
+Under this tab, users could check the news they liked and  click it to view the news details.
+
 
 ## 正文
 
@@ -81,6 +81,6 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1OTQ0MzkyMywzODc4MzgxODEsLTEyMD
-U2ODk5MTQsLTMzMTk2NTQ0OF19
+eyJoaXN0b3J5IjpbLTQzNjU2MTE0MCwyMDU5NDQzOTIzLDM4Nz
+gzODE4MSwtMTIwNTY4OTkxNCwtMzMxOTY1NDQ4XX0=
 -->
