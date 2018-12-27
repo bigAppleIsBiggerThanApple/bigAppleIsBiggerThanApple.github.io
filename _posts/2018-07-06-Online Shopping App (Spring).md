@@ -7,7 +7,7 @@ author:     Xing Wan
 header-img: img/post-bg-2015.jpg
 catalog: true
 tags:
-Spring
+    - Spring
 ---
 
 # What are the features of this application?
@@ -53,6 +53,6 @@ Click checkout button on the cart page. After clicking checkout, the user's paym
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjUxMTY0NTksMTQ0MTE3NzQ5MywyMD
+eyJoaXN0b3J5IjpbLTIxMzA5MTg2ODAsMTQ0MTE3NzQ5MywyMD
 U4NTg0NzI1XX0=
 -->
