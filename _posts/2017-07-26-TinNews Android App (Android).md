@@ -37,14 +37,14 @@ Under this tab, there are three basic configuration for user to set: clear cache
 
 （3）Utilized Mindorks’s **PlaceHolderView** to support swipe gestures for liking/disliking the news
 
-（3）Utilized Mindorks’s **PlaceHolderView** to support swipe gestures for liking/disliking the news
+（4）Integrated **Retrofit** and **Rxjava** to pull the latest news data from a **RESTFUL** endpoint (newsapi.org)
 
 
-**For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/AroundWebApp)
+**For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/Android-TinNewsApp)
 
 **Thanks!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDM3Njg1NDYsMjA1OTQ0MzkyMywzOD
-c4MzgxODEsLTEyMDU2ODk5MTQsLTMzMTk2NTQ0OF19
+eyJoaXN0b3J5IjpbMTU2MDQwNjc5MCwyMDU5NDQzOTIzLDM4Nz
+gzODE4MSwtMTIwNTY4OTkxNCwtMzMxOTY1NDQ4XX0=
 -->
