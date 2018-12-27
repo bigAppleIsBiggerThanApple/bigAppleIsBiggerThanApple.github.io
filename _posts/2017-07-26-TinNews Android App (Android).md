@@ -24,7 +24,7 @@ Under this tab, users could check the news they liked.
 
 And also user could click it to view the news details.
 ![](https://lh3.googleusercontent.com/jrDWXvOuK47PGrrLL1QVTZBjn-RP7LmhoRveB4Jhw1ayPs2d7QT7F-hx_4_GrwUOtFBVlnu4pOGZcQ4q9lWpPm-x0-GOSVf0yt6cWBkzpWzEqY6lze8QqlZu6kbdxBiwgaTfgJXtaGm8Y9C0sb1wwyVy_Z630FE2Aj0CG15ZwsFiPGoL2f1YcUmtskgWGGQbUP6XNRxkL30Q10t_BuTXcZ1fjE4g343uSTB8T8VsdGVg1mnJA3fCDNwx_tuMwX1sz5r55WIgyTZuLPvikRWEzFa7VWbCdBJc8W7G_EAfsqRT5-yLmTS9yGP-Bg1eXKjvOEDpNKlJmv2g0fG7mw30Q_Jad_zFjf5XYMdc4v2T1PzikE9aPCM6bD6J8iDmy7vYUCxnsg4z5F-ox4F2zUnMfITWutq1rbfOUO6KmGXG6FluJWPtI2BVA4BgVw4dpF0jUQjiwUfVL2M5wpchj4RTVUPaLnxSjyu1u7JBz0WQLgI-2EEJTJh8Ey-6dsUp6xmsV8agnTDA71W5AvSIfZAhPGV5_2yPRex_ScYDe5XTKpPK9dOTM1bcSPayEHScaxZOuOKz16Q7hPIXtp73P1gp1LSZbJXQTWifyD4PcwjQNtjhbHfeZC9kIru6S2LU992aRFqh2goZnlh7xWebcJiD2-g7=w269-h447-no)
-**（3）View saved news**:
+**（3）Clear history **:
 
 Under this tab, users could check the news they liked and  click it to view the news details.
 
@@ -82,6 +82,6 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAyMjY1NSwyMDU5NDQzOTIzLDM4Nz
+eyJoaXN0b3J5IjpbLTY3NjcyMzI0MywyMDU5NDQzOTIzLDM4Nz
 gzODE4MSwtMTIwNTY4OTkxNCwtMzMxOTY1NDQ4XX0=
 -->
