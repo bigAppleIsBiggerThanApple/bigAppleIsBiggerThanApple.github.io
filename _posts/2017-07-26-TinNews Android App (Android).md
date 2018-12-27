@@ -13,7 +13,7 @@ tags:
 # What can this application do? 
 **（1）Present news**:
 
-平常我们都会用 Instrument 的 Leaks / Allocations 或其他一些开源库进行内存泄露的排查，但它们都存在各种问题和不便，
+The news data of this project is taken from newsapi.org, and then every time 10 news will be rendered to the user, the user can like or dislike any news on the homepage, and the liked news will be stored in the save tab.
 
 在这个 ARC 时代更常见的内存泄露是循环引用导致的 Abandoned memory，Leaks 工具查不出这类内存泄露，应用有限。
 
@@ -76,5 +76,6 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDU2ODk5MTQsLTMzMTk2NTQ0OF19
+eyJoaXN0b3J5IjpbNjIzMjE3MDIzLC0xMjA1Njg5OTE0LC0zMz
+E5NjU0NDhdfQ==
 -->
