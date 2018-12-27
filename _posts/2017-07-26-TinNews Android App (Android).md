@@ -16,11 +16,11 @@ tags:
 The news data of this project is taken from newsapi.org, and then every time 10 news will be rendered to user. And the user can like or dislike any news on the homepage, and the liked news will be stored in the save tab.
 ![](https://lh3.googleusercontent.com/F2vUzjeDiOCFTacIyZ0oqyri9UfEeisiW583PKAZkgwEcrn5Lb869JtpIXnqzulhiH1_D_H5A1KapAteRcFUUjxexKJVTbQ6HZTgvjGts-HIrhvlhYr7VP6u1F-jaEBLISwTKKeJzc0ueGJ_XdY64eA84hAUEfE_hPVKkAw-LGMUMEJtglCsYWe6vApl3wVGHL8i6Niql61cZTYiKJ02XaV78oaAnQJyQQyvVBTy6ZaQnNvSJL4tKuZd5MpxHEsznFjsxMUFRjvY-Jm2UEtTPlpWWckJivjJP4mzvxMQsBAxrBduYHji_6BwygYIAJc0pD5R0ub0zxiI8CCbUcY2SyHXL0zmDh6dG3CVLQxD_t8icAaW4izZw3QlCaN88ZhwLAFBKZ8Py1q-RrnCpDFJ2sWBfbCKZIc8-WKDgAdkZH7hKbt_H9rKsmbcuuGBwV5C1f4Au6idFfUsCKgdSTz6nAuR-Fzzpi47mt7aIt_5JKHGh3y4H2d9Zc-lu-snlE2oSRKnUP-dKYkiX6UyxjeMyzvBBQkdOzMIWF79xBK2_yNCDvg1clf42rjaQb-mi5poX3Okk1c_pBlHcPxRHBJTeZFNu6SkVmMyaxFW-i5YWOzliWcIcIcY4yIIWH8nXEycIVtRluMDnMjrbWa_MgqXogyl=w273-h451-no)
 
-在这个 ARC 时代更常见的内存泄露是循环引用导致的 Abandoned memory，Leaks 工具查不出这类内存泄露，应用有限。
 
-今天介绍一种简单直接的检测内测泄漏的方法：**Debug Memory Graph**
+**（2）View saved news**:
 
-就是这货：
+Under this tab, you could also simply upload your video posts with a create post button and check all the user post videos around you. What's more, the layout of posts is implemented with react-grid-galary.
+
 
 ![](https://ws4.sinaimg.cn/large/006tNc79gy1fhxct12udnj311x0s3grw.jpg)
 
@@ -77,6 +77,6 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MjAwMTA4MCwtMTIwNTY4OTkxNCwtMz
-MxOTY1NDQ4XX0=
+eyJoaXN0b3J5IjpbLTIwMDMyMDczMTYsLTEyMDU2ODk5MTQsLT
+MzMTk2NTQ0OF19
 -->
