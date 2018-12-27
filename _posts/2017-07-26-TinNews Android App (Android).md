@@ -29,55 +29,22 @@ And also user could click it to view the news details.
 Under this tab, there are three basic configuration for user to set: clear cache or change the region
 ![](https://lh3.googleusercontent.com/D3lLolLGwewV6LHMBQkFzLQP7i3RcgOdRV-vEnfpeahmrPaY7fqsx3TL7zz77UTo7jsAIwHyyaPoKQHxVMQQVqemhjn2FNrhHOZCP4vTHUa7iB6p6XQmD9CzxMWzREeC4M_b2nV2atGwagHlyXwjzDZ3w7LwlqY7kmVkF7vVv4WIxrCuZXqoQUgqxOAsc2-aCGakmsgBhPRk1IbaprQ8Y8M3pIGdiRcpDNtprUfFuLkS7fnVkUymQ2ZQKZr5QNeGEkvtkss2yjGxk7YKRDPDdGg8BvBE21SOI92yeuscBnJbFTThWk_OaGX4GctG3LYt6QOh1ygP9S7FTbXLk8V3_r351oZqaWtJ2cd9ckwVlXhCJmJ2fOxvWVpmnTBMAa1kTYoe3YlGb2tCG5Htn07suM6FhnTRJ5S8nbkz2ZukHk9_lLqn2V-7FPrfo1YGvhhOocHyzpuiJRiIWYjA0ynBsfruHF5vnKA1w9AMjbsOF4P_Rm1X4f4X2kXKmBKg_nEUhLH6yQAC2ygCldE7qau1igLo151Za-PuC7ur6rFdNI3owGkMzmSUAKrWAF9kSysZksoFxjVXpIHNbxhX1bPR6za4LH1XXWZm6We0hUcrMFRidiD7-yTIPwFL5bOdYa5rz_OUqc-L4_tzFzbKeSY-4HjM=w270-h449-no)
 
+# App Implementation
+
+（1）Designed the Instagram Flavor News app based on **MVP** architectural pattern
+
+（2）Implemented **ViewPager** with **BottomBar** that holds News/Save/Setting Tabs’ state in the MainActivity concurrently
+
+（3）Utilized Mindorks’s **PlaceHolderView** to support swipe gestures for liking/disliking the news
+
+（3）Utilized Mindorks’s **PlaceHolderView** to support swipe gestures for liking/disliking the news
 
 
-```objc
-UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Login" bundle:[NSBundle mainBundle]];
-AppDelegate *appDelegate = (AppDelegate *)[UIApplication sharedApplication].delegate;
-appDelegate.window.rootViewController = [storyboard instantiateViewControllerWithIdentifier:@"LoginVC"];
-```
+**For details, please refer to** [github](https://github.com/bigAppleIsBiggerThanApple/AroundWebApp)
 
-很明显发生了循环引用导致的内测泄漏。
+**Thanks!**
 
-接下来就使用 **Debug Memory Graph** 来查看内测泄漏了。
-
-### 运行程序
-
-首先启动 Xcode 运行程序。
-
-### Debug Memory Graph
-
-![](https://ws3.sinaimg.cn/large/006tNc79gy1fhxend1a8aj315y0s3gw5.jpg)
-
-点击 Debug Memory Graph 按钮后，可以看到红框内的是当前内存中存在的对象。其中，绿色的就是视图控制器。
-
-这样，我们随时都可以查看内测中存在的对象，换句话说，就是可以通过观察 Memory Graph 查看内测泄漏。
-
-### 调试你的App
-
-继续运行你的程序
-
-![](https://ws2.sinaimg.cn/large/006tNc79gy1fhxeuh1np5j30v90kvn03.jpg)
-
-然后对App进行调试、push、pop 操作，再次点击 Debug Memory Graph 按钮。那些该释放而依旧在内测中的 `控制器` 或 `对象` 就能一一找出来了。
-
-接下来，只要进入对应的控制器找到内测泄漏的代码就OK了，一般是Block里引用了 `self`，改为 `weakSelf` 就解决了。
-
-```objc
-#define WS(weakSelf) __weak __typeof(&*self)weakSelf = self;
-
-WS(weakSelf)
-sView.btnBlock = ^(NSInteger idx){
-    [weakSelf.tableView reloadSections:[NSIndexSet indexSetWithIndex:idx] withRowAnimation:UITableViewRowAnimationAutomatic];
-};
-```
-
-## 结语
-
-就这样，利用 Debug Memory Graph，可以简单快速的检测内测泄漏。
-
-一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMzQ3MjI0LDIwNTk0NDM5MjMsMzg3OD
-M4MTgxLC0xMjA1Njg5OTE0LC0zMzE5NjU0NDhdfQ==
+eyJoaXN0b3J5IjpbLTE4MDM3Njg1NDYsMjA1OTQ0MzkyMywzOD
+c4MzgxODEsLTEyMDU2ODk5MTQsLTMzMTk2NTQ0OF19
 -->
