@@ -7,7 +7,7 @@ author:     Xing Wan
 header-img: img/post-bg-debug.png
 catalog: true
 tags:
-    - Recommendation
+    - Recommendation System
 ---
 # What can this application do? 
 **（1）Search near by events**:
@@ -42,5 +42,5 @@ Designed an interactive web page utilizing **AJAX** technology (**HTML, CSS and 
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzk5OTg5N119
+eyJoaXN0b3J5IjpbMTA4NTMxNzIyMF19
 -->
