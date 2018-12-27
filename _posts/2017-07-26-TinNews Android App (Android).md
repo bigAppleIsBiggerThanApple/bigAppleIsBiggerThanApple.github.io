@@ -24,16 +24,12 @@ Under this tab, users could check the news they liked.
 
 And also user could click it to view the news details.
 ![](https://lh3.googleusercontent.com/jrDWXvOuK47PGrrLL1QVTZBjn-RP7LmhoRveB4Jhw1ayPs2d7QT7F-hx_4_GrwUOtFBVlnu4pOGZcQ4q9lWpPm-x0-GOSVf0yt6cWBkzpWzEqY6lze8QqlZu6kbdxBiwgaTfgJXtaGm8Y9C0sb1wwyVy_Z630FE2Aj0CG15ZwsFiPGoL2f1YcUmtskgWGGQbUP6XNRxkL30Q10t_BuTXcZ1fjE4g343uSTB8T8VsdGVg1mnJA3fCDNwx_tuMwX1sz5r55WIgyTZuLPvikRWEzFa7VWbCdBJc8W7G_EAfsqRT5-yLmTS9yGP-Bg1eXKjvOEDpNKlJmv2g0fG7mw30Q_Jad_zFjf5XYMdc4v2T1PzikE9aPCM6bD6J8iDmy7vYUCxnsg4z5F-ox4F2zUnMfITWutq1rbfOUO6KmGXG6FluJWPtI2BVA4BgVw4dpF0jUQjiwUfVL2M5wpchj4RTVUPaLnxSjyu1u7JBz0WQLgI-2EEJTJh8Ey-6dsUp6xmsV8agnTDA71W5AvSIfZAhPGV5_2yPRex_ScYDe5XTKpPK9dOTM1bcSPayEHScaxZOuOKz16Q7hPIXtp73P1gp1LSZbJXQTWifyD4PcwjQNtjhbHfeZC9kIru6S2LU992aRFqh2goZnlh7xWebcJiD2-g7=w269-h447-no)
-**（3）Clear history **:
+**（3）Delete history user liked news**:
 
-Under this tab, users could check the news they liked and  click it to view the news details.
+Under this tab, there are three basic configuration for user to set: clear cache or change the region
+![](https://lh3.googleusercontent.com/D3lLolLGwewV6LHMBQkFzLQP7i3RcgOdRV-vEnfpeahmrPaY7fqsx3TL7zz77UTo7jsAIwHyyaPoKQHxVMQQVqemhjn2FNrhHOZCP4vTHUa7iB6p6XQmD9CzxMWzREeC4M_b2nV2atGwagHlyXwjzDZ3w7LwlqY7kmVkF7vVv4WIxrCuZXqoQUgqxOAsc2-aCGakmsgBhPRk1IbaprQ8Y8M3pIGdiRcpDNtprUfFuLkS7fnVkUymQ2ZQKZr5QNeGEkvtkss2yjGxk7YKRDPDdGg8BvBE21SOI92yeuscBnJbFTThWk_OaGX4GctG3LYt6QOh1ygP9S7FTbXLk8V3_r351oZqaWtJ2cd9ckwVlXhCJmJ2fOxvWVpmnTBMAa1kTYoe3YlGb2tCG5Htn07suM6FhnTRJ5S8nbkz2ZukHk9_lLqn2V-7FPrfo1YGvhhOocHyzpuiJRiIWYjA0ynBsfruHF5vnKA1w9AMjbsOF4P_Rm1X4f4X2kXKmBKg_nEUhLH6yQAC2ygCldE7qau1igLo151Za-PuC7ur6rFdNI3owGkMzmSUAKrWAF9kSysZksoFxjVXpIHNbxhX1bPR6za4LH1XXWZm6We0hUcrMFRidiD7-yTIPwFL5bOdYa5rz_OUqc-L4_tzFzbKeSY-4HjM=w270-h449-no)
 
 
-## 正文
-
-我最近的项目中，退出登录后（跳转到登录页），发现首页控制器没有被销毁，依旧能接收通知。
-
-退出登录代码：
 
 ```objc
 UIStoryboard *storyboard = [UIStoryboard storyboardWithName:@"Login" bundle:[NSBundle mainBundle]];
@@ -82,6 +78,6 @@ sView.btnBlock = ^(NSInteger idx){
 
 一般由两个对象循环引用的内测泄漏是比较好发现的，如果是由三个及其三个以上的对象形成的大的循环引用，就会比较难排查了。
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY3NjcyMzI0MywyMDU5NDQzOTIzLDM4Nz
-gzODE4MSwtMTIwNTY4OTkxNCwtMzMxOTY1NDQ4XX0=
+eyJoaXN0b3J5IjpbNzYzMzQ3MjI0LDIwNTk0NDM5MjMsMzg3OD
+M4MTgxLC0xMjA1Njg5OTE0LC0zMzE5NjU0NDhdfQ==
 -->
