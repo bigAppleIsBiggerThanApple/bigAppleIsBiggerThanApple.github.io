@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      TinNews Android App
+title:      TinNews Android App (Android)
 subtitle:   Designed the Instagram Flavor News app based on MVP architectural pattern
 date:       2017-09-26
 author:     Xing Wan
@@ -45,5 +45,5 @@ Under this tab, there are three basic configuration for user to set: clear cache
 **Thanks!**
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1Njg3ODI2NV19
+eyJoaXN0b3J5IjpbNzU3MjMzMjI1XX0=
 -->
