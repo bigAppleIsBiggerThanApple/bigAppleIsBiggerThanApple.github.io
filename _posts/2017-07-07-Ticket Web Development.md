@@ -2,7 +2,7 @@
 layout:     post
 title:      Ticket Web Development (Recommendation)
 subtitle:   Improved personalized business recommendation based on search history and favorite records
-date:       2017-07-07
+date:       2018-07-07
 author:     Xing Wan
 header-img: img/post-bg-debug.png
 catalog: true
@@ -42,5 +42,5 @@ Designed an interactive web page utilizing **AJAX** technology (**HTML, CSS and 
 
 **Thanks!**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjcwMjE3NjA1XX0=
+eyJoaXN0b3J5IjpbNDg0ODM4OTE4LDY3MDIxNzYwNV19
 -->
